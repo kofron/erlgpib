@@ -1,0 +1,5 @@
+erlgpib is an Erlang/OTP library application that provides an interface to the
+GPIB protocol in pure Erlang.  At the moment, its only feature is providing 
+macro definitions for the various GPIB status registers for convenience use
+in higher level applications - see github.com/kofron/eprologix.git for an 
+example.
