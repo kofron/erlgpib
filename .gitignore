@@ -1,0 +1,12 @@
+*~
+*#
+#*
+ebin/*
+rebar
+lib/
+priv/*.so
+release/dripline
+release/files
+src/endpoint.erl
+*.beam
+.eunit

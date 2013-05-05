@@ -1,0 +1,5 @@
+{application, erlgpib,
+ [
+  {description, "Erlang GPIB Utilities"},
+  {vsn, "0.0.1"}
+ ]}.
